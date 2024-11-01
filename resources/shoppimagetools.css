@@ -1,0 +1,71 @@
+.shopp.imagetools #conversionlog {
+	background: #f6f6f9;
+	border: 1px solid #619bbb;
+	clear: both;
+	height: 10.8em;
+	margin: 2em;
+	margin-bottom: 0.8em;
+	overflow-y: scroll;
+	padding: 0.15em 0.28em;
+	width: auto;
+}
+
+.shopp.imagetools #conversionlog ol li {
+	font-family: monospace;
+	list-style-position: inside;
+}
+
+.shopp.imagetools p.control {
+	float: left;
+	vertical-align: middle;
+	width: 33%;
+}
+
+.shopp.imagetools span.control-group {
+	display: inline-block;
+}
+
+.shopp.imagetools p.control .button-secondary {
+	margin-bottom: 0.6em;
+	margin-right: 1em;
+}
+
+.shopp.imagetools p.control label {
+	margin-right: 0.5em;
+}
+
+.shopp.imagetools img.directindicator {
+	float: left;
+	margin-right: 1em;
+}
+
+.shopp.imagetools #work-meter-holder {
+	text-align: center;
+}
+
+.shopp.imagetools #work-meter {
+	background: #fff;
+	border: 1px solid #ccc;
+	display: inline-block;
+	padding: 1px;
+	text-align: center;
+}
+
+.shopp.imagetools #work-indicator {
+	height: 0.5em;
+	padding: 0;
+	position: relative;
+	width: 2em;
+}
+
+.shopp.imagetools #worker-droid {
+	background: #889;
+	height: 100%;
+	left: 0%;
+	position: absolute;
+	right: 100%;
+}
+
+.shopp.imagetools table.widefat tr > td:first-child {
+	width: 16em;
+}
